@@ -1,0 +1,16 @@
+
+.app{
+  background-image:url(/src/images/pic2.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.page-container{
+  position: relative;
+  min-height: 95vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}

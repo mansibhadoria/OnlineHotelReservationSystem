@@ -1,0 +1,9 @@
+.navbar{
+    position: absolute; 
+    background: #666;
+    background: rgba(0, 0, 0,.5);
+    color: white;
+    font-size: 1.125rem;
+   
+}
+body { padding-top: 50px;}
